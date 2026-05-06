@@ -31,14 +31,14 @@ local TargetBrainrots = {
     ["Ketupat Bros"] = true, ["Ginger Gerat"] = true, ["Meowl"] = true,
     ["Strawberry Elephant"] = true, ["Skibidi Toilet"] = true, ["Dragon Cannelloni"] = true,
     ["Hydra Dragon Cannelloni"] = true, ["La Supreme Combinasion"] = true, ["Dragon Gingerini"] = true,
-    ["Headless Horseman"] = true, ["Signore Carapace"] = true, ["Cerberus"] = true, ["Hydra Bunny"] = true,
+    ["Headless Horseman"] = true, ["Signore Carapace"] = true, ["Cerberus"] = true, ["Noobini Pizzanini"] = true,
 }
 
 local GOOD_BRAINROTS = {
     ["Dragon Gingerini"] = true, ["Hydra Dragon Cannelloni"] = true, ["Antonio"] = true,
     ["Elefanto Frigo"] = true, ["Griffin"] = true, ["Skibidi Toilet"] = true,
     ["Meowl"] = true, ["Strawberry Elephant"] = true, ["Headless Horseman"] = true,
-    ["Dragon Cannelloni"] = true, ["Signore Carapace"] = true, ["Cerberus"] = true, ["Hydra Bunny"] = true
+    ["Dragon Cannelloni"] = true, ["Signore Carapace"] = true, ["Cerberus"] = true, ["Noobini Pizzanini"] = true
 }
 
 local function getRemote(unobfuscatedName)
